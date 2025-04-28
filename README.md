@@ -43,16 +43,18 @@ Technologies Used
     License
 
 How to Run Locally
-    Clone the repository or download the project ZIP:
+    
+Clone the repository or download the project ZIP:
 
 git clone https://github.com/RobinJames25/simple-calculator.git
 
-    Navigate to the project folder:
+Navigate to the project folder.
 
 cd simple-calculator
 
-    Open the index.html file in your web browser.
+ pen the index.html file in your web browser.
 
 ![Screenshot from 2025-04-28 12-16-19](https://github.com/user-attachments/assets/99da70af-90d9-46b5-9538-b62cfda894bd)
+
 
 This project is open source and available under the MIT License.
